@@ -5,11 +5,7 @@ public class Task8 {
 	public static void main(String[] args) {
 		double x;
 		double result;
-<<<<<<< Updated upstream
-		
-=======
 
->>>>>>> Stashed changes
 		x = 0.1;
 		result = 1;
 		while (x <= 10) {
